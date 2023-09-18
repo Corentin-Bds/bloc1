@@ -13,6 +13,8 @@ La méthode GET possède les données saisies par l'utilisateur, celle-ci ne son
 Cette méthode n'a pas de limites de taille et les données ne sont pas visibles par les autres. Cependant, celle-ci ne sont pas protégées si le protocole HTTPS n'est pas utilisé
 
 
+# Exercice 2 : 
+
 |   | GET          | POST |
 | :--------------- |:---------------:| -----:|
 | Taille  |   Limité        |  Pas de limites |
