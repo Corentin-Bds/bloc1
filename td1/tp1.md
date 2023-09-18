@@ -25,3 +25,18 @@ Cette méthode n'a pas de limites de taille et les données ne sont pas visibles
 # Exercice 3 : 
 
 HTTP est extensible grâce à des en-têtes personnalisés, des méthodes personnalisées, des extensions, des versions mises à jour et WebSocket, permettant aux développeurs de l'adapter aux besoins changeants.
+
+
+# Exercice 4 : 
+
+HTTP est sans état, ce qui signifie qu'il ne se souvient pas des actions précédentes. Cela simplifie le protocole, mais nécessite une gestion spécifique des sessions pour suivre les utilisateurs et peut avoir des implications sur la performance et la sécurité des applications web.
+
+
+# Exercice 5 : 
+
+**Schéma** : https
+**Nom de domaine** : slamwiki2.kobject.net
+**Chemin** : /media/sio/1-_architecture_web.pdf
+
+
+# Exercice 6 :
