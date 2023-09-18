@@ -20,3 +20,8 @@ Cette méthode n'a pas de limites de taille et les données ne sont pas visibles
 | Taille  |   Limité        |  Pas de limites |
 | Utilisation  | Plus simple d'utilisation | Plus compliqué car doit passer par une requête |
 | Sécurité  | Moins sécurisé | Plus sécurisé |
+
+
+# Exercice 3 : 
+
+HTTP est extensible grâce à des en-têtes personnalisés, des méthodes personnalisées, des extensions, des versions mises à jour et WebSocket, permettant aux développeurs de l'adapter aux besoins changeants.
