@@ -1,0 +1,15 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+h2 {
+    color: green;
+    text-decoration: underline;
+}
+strong {
+    color: red;
+}
+em {
+    font-weight: bold;
+    font-style: normal;
+}
