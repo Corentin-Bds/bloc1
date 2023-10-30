@@ -1,0 +1,41 @@
+body {
+    background-color: grey;
+}
+
+main {
+    background-image: url("/td3/images/df-min.jpg");
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    height: 950px;
+}
+#titre {
+    background: orange;
+    border-radius: 40%;
+    width: 25%;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#container {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+}
+#container>aside {
+    border: 2px solid black;
+    border-radius: 10%;
+    background: white;
+    width: 15%;
+    height: 250px;
+    padding: 10px;
+    margin-top: 450px;
+}
+footer {
+    background: red;
+    height: 50px;
+    margin-right: 0px;
+    margin-left: 0px;
+}              
