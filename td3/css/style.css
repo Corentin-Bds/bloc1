@@ -34,8 +34,11 @@ main {
     margin-top: 450px;
 }
 footer {
-    background: red;
+    background: white;
     height: 50px;
     margin-right: 0px;
     margin-left: 0px;
+}
+footer>p {
+    text-align: center;
 }              
